@@ -1,0 +1,5 @@
+- graficzny interfejs użytkownika z możliwością odpytywania modelu (model może być wprowadzony z poziomu kodu w Pythone)
+- możliwość ładowania plików do bazy wektorowej
+- budowanie bazy wektorowej
+- zdefiniowanie co najmniej 1 funkcji, którą można wywołać z poziomu interfejsu
+- możliwość odpytywania treści pliku poprzez model
