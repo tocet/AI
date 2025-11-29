@@ -1,2 +1,6 @@
 tiktokenizer.vercel.app
 bbycroft.net/llm
+
+Uczenie Maszynowe
+mlsysbook.ai
+sensecraft.seeed.cc
