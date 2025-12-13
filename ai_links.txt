@@ -4,3 +4,7 @@ bbycroft.net/llm
 Uczenie Maszynowe
 mlsysbook.ai
 sensecraft.seeed.cc
+
+LM Studio
+lmstudio.ai
+
