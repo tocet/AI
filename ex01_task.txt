@@ -1,0 +1,8 @@
+Zbudować interfejs graficzny do korzystania z LLM poprzez LM Studio:
+(0.1) możliwość ustawienia przez użytkownika prompta systemowego
+(0.2) możliwość wygenerowania zapytania do modelu
+(0.1) możliwość wyboru modelu
+(0.3) możliwość ustawienia parametrów odpowiedzi (3)
+(0.1) możliwość zapisu odpowiedzi w pliku txt
+(0.2) możliwość ładowania prompta z pliku
+
